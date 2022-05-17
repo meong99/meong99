@@ -3,6 +3,8 @@
   # Hi there 👋 , I'm MyeongseockChae!
   
  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meong99&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeong99&count_bg=%2310BF4E&title_bg=%23FF0000&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/meong99)
   
   ## 🛠 Tech Stack 🛠
@@ -18,8 +20,6 @@
   <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
     <br/>  <br/>  <br/>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meong99&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 
