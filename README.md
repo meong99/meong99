@@ -5,6 +5,8 @@
  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meong99&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audtjr653)](https://solved.ac/audtjr653)
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeong99&count_bg=%2310BF4E&title_bg=%23FF0000&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/meong99)
   
   ## 🛠 Tech Stack 🛠
