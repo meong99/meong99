@@ -1,6 +1,6 @@
   # Hi there 👋 , I'm MyeongSeock Chae!
   **안녕하세요! 나만의 세계를 만들어가기를 원하는 게임 클라이언트 개발자 채명석 입니다!**
-  - 저는 현재 [![](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white")](https://42seoul.kr/seoul42/main/view)에서 공부중이며 학습 내용은 제 블로그 [![](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@meong9090)와 [![](https://img.shields.io/badge/github_42seoul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meong99/42_seoul)에서 확인하실 수 있습니다.
+  - 저는 현재 [![](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white")](https://42seoul.kr/seoul42/main/view)에서 공부중이며 학습 내용은 제 블로그 [Blog](https://velog.io/@meong9090)와 [42seoul](https://github.com/meong99/42_seoul)에서 확인하실 수 있습니다.
  
 
 <!--
